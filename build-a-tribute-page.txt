@@ -1,0 +1,53 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title id="title">Leslie McNaulty</title> 
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <main id="main">
+    <h1 id="title">In Honor of Leslie McNaulty</h1>
+    <div id="img-div">
+      <img id="image" src="https://www.baltimoreschild.com/wp-content/uploads/2017/04/bah-for-web-1024x478.jpg">
+      <div id="img-caption"><i>Above is the child abuse charity logo that Ms. McNaulty has contributed throughout her life.</i></div>
+      </img>
+    </div>
+    <div id="tribute-info" class="tribute-info">Ms. McNaulty's Achievements:</div> 
+    <div>
+      <ul>
+        <li><a>Operated 5 facilities 
+    </a></li>
+        <li><a>Organized 16 charity events and raise over 30 million in profit </a></li>
+        <li><a> A 3 time Sutton-Mitchell award-winner for humanity
+      </ul>
+    </div>
+    <a id="tribute-link" target="_blank" href="leslie-mcnaulty-tribute-page.org" value="tribute-page"></a>
+</main> 
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+img{display: block;
+height: auto;
+max-width: 100%;
+align-items: center;
+}
+
+h1{text-align: center;
+color: teal}
+
+main{background-color: black;
+color: teal;}
+
+main > div{margin: 0 0.2rem;
+  padding: 0.2rem;
+  display: block;}
+
+.tribute-info {text-align: center}
+
+** end of undefined **
+
